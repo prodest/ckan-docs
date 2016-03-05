@@ -1,0 +1,34 @@
+.hero {
+    background: white; }
+.box {
+    border: 1px solid #cccccc;
+    border-radius: 4px;}
+.module {
+    margin: 0;
+}
+
+.masthead {
+    min-height: 55px;
+    color: #ffffff;
+    background: #208BAA;
+}
+    .homepage .module-search .tags {
+        padding: 5px 10px 10px 10px;
+        background-color: #C86673;}    
+
+.homepage .module-search .module-content {
+    background-color: #208BAA; }
+.account-masthead {
+    min-height: 30px;
+    color: white;
+    background: #006A88;
+}
+.masthead .nav-collapse {
+    padding-top: 40px;
+}
+.homepage .module-search {
+    padding: 5px;
+    margin: 0px 0 0 0;
+    color: #ffffff;
+    background: #ffffff;
+}
