@@ -1,1 +1,1 @@
-# Repositório contendo a docmeuntação do CKAN utilizando no projeto do Prodest no Open Data Day 2016
+Repositório contendo a documentação do CKAN utilizando no projeto do Prodest no Open Data Day 2016
