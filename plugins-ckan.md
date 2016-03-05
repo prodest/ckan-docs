@@ -7,6 +7,10 @@
 - Plugin para visualizar dados de bancos de dados (MySQL, PSQL e MSSQL)
 - http://extensions.ckan.org/extension/dataproxy/
 
+## Pages
+- CMS Simples para o CKAN
+- https://github.com/ckan/ckanext-pages
+
 # Internals
 ## Data Pusher :ok:
 - https://github.com/ckan/datapusher
